@@ -11,9 +11,11 @@ To run the model, simply run the file "production_model.py", which will prompt y
 ## Dependencies
 This model requires the following dependencies:
 
+```
 numpy
 keras
 sklearn
+```
 
 ## Example Usage
 ```
