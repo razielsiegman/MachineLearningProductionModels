@@ -1,0 +1,16 @@
+,enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours,Results,Recommendation
+0,32403,city_41,0.827,Male,Has relevent experience,Full time course,Graduate,STEM,9,<10,,1,21,0.3636577173033002,Do Not Pursue
+1,9858,city_103,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,5,,Pvt Ltd,1,98,0.155479628318687,Do Not Pursue
+2,31806,city_21,0.624,Male,No relevent experience,no_enrollment,High School,,<1,,Pvt Ltd,never,15,0.3499568014848232,Do Not Pursue
+3,27385,city_13,0.827,Male,Has relevent experience,no_enrollment,Masters,STEM,11,Oct-49,Pvt Ltd,1,39,0.09768418665412335,Do Not Pursue
+4,27724,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,10000+,Pvt Ltd,>4,72,0.12726714998899025,Do Not Pursue
+5,217,city_23,0.899,Male,No relevent experience,Part time course,Masters,STEM,10,,,2,12,0.3034040775750378,Do Not Pursue
+6,21465,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,<1,100-500,Pvt Ltd,1,11,0.5472706686213429,Pursue
+7,27302,city_160,0.92,Female,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,>4,81,0.394209280932367,Do Not Pursue
+8,12994,city_173,0.878,Male,Has relevent experience,no_enrollment,Graduate,STEM,14,,,4,2,0.2695771741807135,Do Not Pursue
+9,16287,city_21,0.624,Male,Has relevent experience,Full time course,Graduate,,3,50-99,Funded Startup,1,4,0.4583303726257628,Pursue
+10,10856,city_103,0.92,Male,Has relevent experience,no_enrollment,Masters,Other,>20,,,>4,196,0.2624942898835436,Do Not Pursue
+11,9272,city_90,0.698,Male,Has relevent experience,no_enrollment,Graduate,STEM,20,Oct-49,Pvt Ltd,2,51,0.14080935068883524,Do Not Pursue
+12,14249,city_46,0.762,Male,Has relevent experience,no_enrollment,Graduate,STEM,8,100-500,Other,never,48,0.32960423737062844,Do Not Pursue
+13,24372,city_98,0.949,,Has relevent experience,no_enrollment,Masters,STEM,4,100-500,Pvt Ltd,1,134,0.07468851594611536,Do Not Pursue
+14,14070,city_103,0.92,,No relevent experience,no_enrollment,Graduate,STEM,5,,,never,10,0.4548924373954788,Pursue
